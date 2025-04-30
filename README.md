@@ -1,4 +1,4 @@
-# Alt Mobility – Data Analyst Assignment
+# Alt Mobility – Assignment
 
 This repository contains my submission for the **Data Analyst Intern Assignment** at **Alt Mobility**. It includes SQL-based analysis, customer retention visualization, and a summary of findings based on two datasets: `customer_orders.csv` and `payments.csv`.
 
